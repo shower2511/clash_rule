@@ -32,5 +32,5 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 #自己补充
 DOMAIN-SUFFIX,ipleak.net
-DOMAIN-SUFFIX,browserleaks.com
-DODOMAIN-SUFFIX,koyed.app
+DOMAIN-SUFFIX,koyeb.app
+DOMAIN-KEYWORD,browserleaks
