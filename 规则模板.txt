@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/qichiyuhub/rule/master/qichiyu.ini 泄露版本
+https://raw.githubusercontent.com/qichiyuhub/rule/master/qichiyudns.ini 防泄漏版本
